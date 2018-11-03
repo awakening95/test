@@ -5,7 +5,7 @@
     classid="{B0BB0B00-0000-0000-3000-000DA00DABFC}" >
     <script language="JScript">
         <![CDATA[
-          var foo = new ActiveXObject("WScript.Shell").Run("calc.exe"); 
+          var foo = new ActiveXObject("WScript.Shell").Run("C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"); 
         ]]>
     </script>
 </registration>
