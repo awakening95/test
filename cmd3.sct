@@ -2,7 +2,7 @@
 <scriptlet>
 <registration
     progid="BOB"
-    classid="{RAPTBOB0-0000-0000-3000-000DA00DABFC}" >
+    classid="{B0BB0B00-0000-0000-3000-000DA00DABFC}" >
     <script language="JScript">
         <![CDATA[
         ]]>
