@@ -1,5 +1,13 @@
 <?XML version="1.0"?>
 <scriptlet>
+<registration
+    description="Scripting.Dictionary"
+    progid="Scripting.Dictionary"
+    version="1"
+    classid="{00000000-0000-0000-0000-000000000001}"
+    remotable="true"
+	>
+</registration>
 
 <script language="JScript">
 <![CDATA[
