@@ -1,6 +1,7 @@
 <?XML version="1.0"?>
 <scriptlet>
 <registration
+    progid="BOB"
     classid="{B0BB0B00-0000-0000-3000-000DA00DABFC}" >
 </registration>
 <script language="JScript">
