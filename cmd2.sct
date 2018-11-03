@@ -8,7 +8,7 @@
 <script language="JScript">
     <![CDATA[
         var foo = new ActiveXObject("WScript.Shell");
-        var program = "cmd.exe";
+        var program = "calc.exe";
         var reVal = foo.run(program);
     ]]>
 </script>
