@@ -1,19 +1,14 @@
 <?XML version="1.0"?>
 <scriptlet>
-
 <registration
     progid="BOB"
-    classid="{B0BB0B00-0000-0000-3000-000DA00DABFC}"
-	>
+    classid="{B0BB0B00-0000-0000-3000-000DA00DABFC}" >
 </registration>
-
 <script language="JScript">
-<![CDATA[
-
-		var r = new ActiveXObject("WScript.Shell").Run("calc.exe");
-	
-	
-]]>
+    <![CDATA[
+        var foo = new ActiveXObject("WScript.Shell");
+        var program = "calc.exe";
+        var reVal = foo.run(program);
+    ]]>
 </script>
-
 </scriptlet>
